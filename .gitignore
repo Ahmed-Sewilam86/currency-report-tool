@@ -182,3 +182,7 @@ cython_debug/
 config.py
 currency_report.xlsx
 automation.log
+# PyInstaller
+build/
+dist/
+*.spec
